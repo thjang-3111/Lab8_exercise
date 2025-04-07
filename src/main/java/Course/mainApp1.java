@@ -4,7 +4,7 @@ public class mainApp1 {
     public static void main(String[] args) {
         Score k = new Score();
         k.setQuiz(90);
-        k.setMidTExam(70);
+        k.setMidTExam(1000000);
         k.setFinalExam(75);
 
         System.out.println("Quiz        : "+k.Quiz);
